@@ -1,6 +1,7 @@
-ionic-angular-cordova-seed
+My Highschool Contacts App
 ==========================
 
-The perfect starting point for an Ionic project.
+# directory-clone
 
-- [Ionic Tutorials](http://ionicframework.com/tutorials/)# directory-clone
+# Known issues:
+Generation of ID is not correct. Will be failure if delete happens.

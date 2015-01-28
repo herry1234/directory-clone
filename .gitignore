@@ -1,4 +1,5 @@
 *.keystore
 *.sw*
 .cordova
+hooks
 platforms/^.*
